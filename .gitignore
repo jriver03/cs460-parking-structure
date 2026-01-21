@@ -1,0 +1,11 @@
+# ======== OS Junk ===========
+.DS_Store
+Thumbs.db
+
+# ======== VS Code ===========
+.vscode/
+
+# ========= Misc =============
+*.swp
+*.tmp
+*.bak
