@@ -1,1 +1,5 @@
-RDD drafts and final submission go here
+1. Introduction
+2. Objectives
+3. System Organization
+4. Capabilities
+5. Design Constraints
